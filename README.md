@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeffersonklamas)](https://github.com/jeffersonklamas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffersonklamasmarzani/)](https://www.linkedin.com/in/jeffersonklamasmarzani/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+41+99954-8681&text=Hello!)](https://api.whatsapp.com/send?phone=55+41+99954-8681&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonklamas@gmail.com)](mailto:jeffersonklamas@gmail.com)
+ 
+- Thanks for visiting. 
+ 
+- Enjoy it!! o/
