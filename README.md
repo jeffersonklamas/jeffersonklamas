@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Jefferson Klamas, let me introduce a little bit about myself.
 
-At the moment I am in the process of changing my career and I am starting my studies in Python and R programming, for who knows in the future to be a data scientist.
+At the moment I am in the process of changing my career and I am starting my studies in Python and R programming, for who knows in the future to become a data scientist.
 
 Feel free to ask.
 
