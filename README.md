@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **jeffersonklamas/jeffersonklamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome!
+# Welcome!👋
 
 ## I'm Jefferson! let me present a little about myself
 
