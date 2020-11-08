@@ -1,4 +1,4 @@
-### Hi there 
+ 
 
 <!--
 **jeffersonklamas/jeffersonklamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ## I'm Jefferson! let me present a little about myself
 
 At the moment I am in the process of changing my career and I am starting my studies in Python and R programming, for who knows in the future to become a data scientist.
+
+- 🌱 I am currently learning about Python, R and Methods of Operations Research
 
 Feel free to ask.
 
