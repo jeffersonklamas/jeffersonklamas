@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome!!
+# Welcome!
 
-Hi, I'm Jefferson Klamas, let me introduce a little bit about myself.
+## I'm Jefferson! let me present a little about myself
 
 At the moment I am in the process of changing my career and I am starting my studies in Python and R programming, for who knows in the future to become a data scientist.
 
@@ -31,5 +31,3 @@ Feel free to ask.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonklamas@gmail.com)](mailto:jeffersonklamas@gmail.com)
  
 - Thanks for visiting. 
- 
-- Enjoy it!! 
