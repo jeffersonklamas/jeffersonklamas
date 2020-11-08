@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Welcome!!
+
+Hi, I'm Jefferson Klamas, let me introduce a little bit about myself.
+
+At the moment I am in the process of changing my career and I am starting my studies in Python and R programming, for who knows in the future to be a data scientist.
+
+Feel free to ask.
+
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeffersonklamas)](https://github.com/jeffersonklamas)
@@ -24,4 +32,4 @@ Here are some ideas to get you started:
  
 - Thanks for visiting. 
  
-- Enjoy it!! o/
+- Enjoy it!! 
