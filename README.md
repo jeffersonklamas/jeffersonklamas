@@ -32,5 +32,3 @@ Feel free to ask.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonklamas@gmail.com)](mailto:jeffersonklamas@gmail.com)
  
 - Thanks for visiting. 
-
-[! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Username = jeffersonklamas )] (https://github.com/anuraghazra/github-readme-stats)
