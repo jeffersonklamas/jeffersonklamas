@@ -30,5 +30,6 @@ Feel free to ask.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeffersonklamas)](https://github.com/jeffersonklamas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffersonklamasmarzani/)](https://www.linkedin.com/in/jeffersonklamasmarzani/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonklamas@gmail.com)](mailto:jeffersonklamas@gmail.com)
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/joinchat/jeffersonklamas)
  
 - Thanks for visiting. 
