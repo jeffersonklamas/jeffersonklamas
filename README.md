@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 # Welcome!👋
 
-## I'm Jefferson! let me present a little about myself
+## I'm Jefferson Klamas! let me present a little about myself
 
 At the moment I am in the process of changing my career and I am starting my studies in Python and R programming, for who knows in the future to become a data scientist.
 
-- 🌱 I am currently learning about Python, R and Methods of Operations Research
+- 🌱 I am currently learning about Python, R and Methods of Operations Research.
+- 🌱 I am currently learning about HTML5, CSS3 and JavaScript.
 
 Feel free to ask.
 
@@ -36,8 +37,8 @@ Feel free to ask.
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonklamas&show_icons=true&locale=en&layout=compact" alt = "jeffersonklamas" /> </p>
 
-<--
+<!--
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=jeffersonklamas&show_icons=true&locale=en" alt = "jeffersonklamas" /> </p>
-
+<!--
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=jeffersonklamas&" alt = "jeffersonklamas" /> </p>
 -->
