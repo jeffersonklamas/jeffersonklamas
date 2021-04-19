@@ -32,11 +32,12 @@ Feel free to ask.
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/joinchat/jeffersonklamas)
  
 - Thanks for visiting. 
-.
 
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonklamas&show_icons=true&locale=en&layout=compact" alt = "jeffersonklamas" /> </p>
 
+<--
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=jeffersonklamas&show_icons=true&locale=en" alt = "jeffersonklamas" /> </p>
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=jeffersonklamas&" alt = "jeffersonklamas" /> </p>
+-->
