@@ -14,17 +14,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome!👋
+## Bem vindo!!!!  😄 👋
 
-### I'm Jefferson Klamas! let me present a little about myself
+### Sou o Jefferson Klamas.
 
-#### At the moment I am in the process of changing my career and I am starting my studies in Python and R programming, for who knows in the future to become a data scientist.
+<h3 aling="left" text-align:"justify"> No momento estou em processo de mudança de carreira e estudando programação Python, bem como participando de cursos, HIring Corders para desenvovler habilidades em JavaScript, HTML, CSS, PostgreSql, MongoDB, Selenium entre outras aplicaçoes.</h3>
 
-#### - 🌱 I am currently learning about Python, R and Methods of Operations Research.
-#### - 🌱 I am currently learning about HTML5, CSS3 and JavaScript.
+### Sinta-se a vontade para perguntar.
 
-#### Feel free to ask.
+### Obrigado pela visita.
 
+-----------------------
+## Welcome!👋
+
+### I'm Jefferson Klamas!
+
+### I'm currently in the process of changing my career and studying Python programming, as well as taking courses, HIring Corders to develop skills in JavaScript, HTML, CSS, PostgreSql, MongoDB, Selenium and other applications.
+
+### feel free to ask.
+
+### Thanks for the visit.
 
 <!--
 ## About me 
@@ -43,7 +52,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/jeffersonklamas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffersonklamas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jeffersonklamas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeffersonklamas" height="30" width="40" /></a>
 </p> 
-<br></br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> 
 <br></br>
@@ -60,7 +69,3 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&"><img src="https://github-profile-trophy.vercel.app/?username=jeffersonklamas&true&theme=radical" alt="jeffersonklamas" /></a> </p>
 
 <p align="rigth"> <a href="https://twitter.com/jkmmkj2" target="blank"><img src="https://img.shields.io/twitter/follow/jkmmkj2?logo=twitter&style=for-the-badge" alt="jkmmkj2" /></a> </p>
-
-
-
-#### Thanks for visiting.
