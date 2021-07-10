@@ -69,3 +69,6 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&"><img src="https://github-profile-trophy.vercel.app/?username=jeffersonklamas&true&theme=radical" alt="jeffersonklamas" /></a> </p>
 
 <p align="rigth"> <a href="https://twitter.com/jkmmkj2" target="blank"><img src="https://img.shields.io/twitter/follow/jkmmkj2?logo=twitter&style=for-the-badge" alt="jkmmkj2" /></a> </p>
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonklamas)](https://github.com/anuraghazra/github-readme-stats)
+-->
