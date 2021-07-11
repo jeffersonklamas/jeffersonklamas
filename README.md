@@ -76,3 +76,7 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonklamas)](https://github.com/anuraghazra/github-readme-stats)
 --> 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
