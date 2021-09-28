@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Sou o Jefferson Klamas.
 
-<h3 aling="left" text-align:"justify"> No momento estou em processo de mudança de carreira e estudando programação Python, bem como participando de cursos, HIring Corders para desenvovler habilidades em JavaScript, HTML, CSS, PostgreSql, MongoDB, Selenium entre outras aplicaçoes.</h3>
+<h3 aling="left" text-align:"justify"> No momento estou em processo de mudança de carreira e estudando Python, bem como participando de cursos e HIring Corders para desenvovler habilidades em JavaScript, HTML, CSS, PostgreSql, MongoDB, Selenium entre outras aplicaçoes.</h3>
 
 ### Sinta-se a vontade para perguntar.
 
