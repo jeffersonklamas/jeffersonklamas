@@ -79,7 +79,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Groovy       50 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.19 % 
+Java         18 mins         ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.45 % 
+Other        1 min           ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.46 % 
 ```
 <!--END_SECTION:waka-->
 
