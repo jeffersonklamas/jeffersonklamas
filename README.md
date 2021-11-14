@@ -18,22 +18,12 @@ Here are some ideas to get you started:
 
 ### Sou o Jefferson Klamas.
 
-<h3 aling="left" text-align:"justify"> No momento estou em processo de mudança de carreira e estudando Python, bem como participando de cursos e HIring Corders para desenvovler habilidades em JavaScript, HTML, CSS, PostgreSql, MongoDB, Selenium entre outras aplicaçoes.</h3>
+<h3 aling="left" text-align:"justify"> Desenvovlendo habilidades em Python, JavaScript, HTML, CSS, PostgreSql, MongoDB, Selenium entre outras aplicaçoes.</h3>
 
 ### Sinta-se a vontade para perguntar.
 
 ### Obrigado pela visita.
 
------------------------
-## Welcome!👋
-
-### I'm Jefferson Klamas!
-
-### I'm currently in the process of changing my career and studying Python programming, as well as taking courses, HIring Corders to develop skills in JavaScript, HTML, CSS, PostgreSql, MongoDB, Selenium and other applications.
-
-### feel free to ask.
-
-### Thanks for the visit.
 
 <!--
 ## About me 
