@@ -69,8 +69,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML       45 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.66 % 
-CSS        19 mins         ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
