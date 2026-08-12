@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Sou o Jefferson Klamas.
 
-<h3 aling="left" text-align:"justify"> Desenvovlendo habilidades em Salesforce, Google Cloud, Python, JavaScript, HTML, CSS, PostgreSql, MongoDB, Selenium entre outras aplicaçoes.</h3>
+<h3 aling="left" text-align:"justify"> Profissional de Salesforce com experiência em Análise Funcional, levantamento e análise de requisitos, processos de negócio, sustentação e evolução da plataforma Salesforce.</h3>
 
 ### Sinta-se a vontade para perguntar.
 
