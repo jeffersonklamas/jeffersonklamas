@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Bem vindo!!!!  👋
 
-### Sou o Jefferson Klamas.
+### Sou o Jefferson Klamas Marzani.
 
 <h3 aling="left" text-align:"justify"> Profissional de Salesforce com experiência em Análise Funcional, levantamento e análise de requisitos, processos de negócio, sustentação e evolução da plataforma Salesforce.</h3>
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/jeffersonklamasmarzani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffersonklamasmarzani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jeffersonklamas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jeffersonklamas" height="30" width="40" /></a>
 <!--<a href="https://kaggle.com/jeffersonklamas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jeffersonklamas" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/jeffersonklamasmarzani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffersonklamasmarzani" height="30" width="40" /></a>
 <a href="https://instagram.com/jeffersonmarzani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffersonklamas" height="30" width="40" /></a>
 <!--a href="https://www.leetcode.com/jeffersonklamas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeffersonklamas" height="30" width="40" /></a>
 </p> 
